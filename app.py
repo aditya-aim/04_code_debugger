@@ -25,7 +25,7 @@ if page == "About the App":
     st.markdown("""
 
 
-### 🛠️ About AI Code Debugger & Optimizer  
+
 
 #### 1️⃣ Name & Role  
 **Agent Name:** **PyFixer** – Your AI-Powered Python Debugging & Optimization Assistant  
