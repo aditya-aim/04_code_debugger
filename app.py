@@ -20,8 +20,7 @@ with st.sidebar:
 
 # About the App Page
 if page == "About the App":
-    st.title("🛠️ About AI Code Debugger & Optimizer")
-    
+
     st.markdown("""
 
 
